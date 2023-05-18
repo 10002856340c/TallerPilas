@@ -1,0 +1,17 @@
+Promedio total del grupo: 61.133333333333326
+
+Nombre: hgjhgjh
+Código: 45
+Promedio: 45.0
+Nombre: jjkjhk
+Código: 25
+Promedio: 41.333333333333336
+Nombre: ghgh
+Código: 47
+Promedio: 30.333333333333332
+Nombre: esa
+Código: 545
+Promedio: 21.333333333333332
+Nombre: dhjsdhjs
+Código: 455
+Promedio: 167.66666666666666
